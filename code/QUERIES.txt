@@ -1,0 +1,8 @@
+                                                        MODULE-1
+CREATE TABLE STUDENT_HIST AS SELECT * FROM STUD_TABLE;
+CREATE TABLE STUDENT_BKP AS SELECT * FROM STUD_TABLE;
+
+
+
+                                                        MODULE-6
+CREATE TABLE STUD_EXAM_DETAILS_HIST AS SELECT * FROM STUD_EXAM_DETAILS;
