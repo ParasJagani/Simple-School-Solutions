@@ -45,7 +45,7 @@ CREATE TABLE FEES_TABLE_AUDIT(
 
 
 
-                                                      MODULE-6                                        
+                                                      MODULE-2                                        
 
 
           

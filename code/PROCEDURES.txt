@@ -92,7 +92,7 @@ CREATE OR REPLACE PROCEDURE DELETE_STUDENT(STUD_ID3 IN STUD_TBL.STUD_ID%TYPE)
       END;
      /
 
-                                                         MODULE-6
+                                                         MODULE-2
 
 CREATE OR REPLACE PROCEDURE ADD_EXAM_DETAILS
       (S_ID IN STUD_EXAM_DETAILS.STUD_ID%TYPE,

@@ -42,7 +42,7 @@ CREATE OR REPLACE TRIGGER INSERT_AUDIT_EXAM
   END IF;
    END;
     /
-                                                          MODULE-6
+                                                          MODULE-2
 
 
 

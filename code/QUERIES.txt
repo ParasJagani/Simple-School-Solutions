@@ -4,5 +4,5 @@ CREATE TABLE STUDENT_BKP AS SELECT * FROM STUD_TABLE;
 
 
 
-                                                        MODULE-6
+                                                        MODULE-2
 CREATE TABLE STUD_EXAM_DETAILS_HIST AS SELECT * FROM STUD_EXAM_DETAILS;
